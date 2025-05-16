@@ -24,3 +24,9 @@ conda activate books
 ```bash
 pip install -r requirements.txt
 ```
+
+#### Step 3 - Run the application
+
+```bash
+streamlit run app.py
+```
